@@ -1,5 +1,5 @@
 /*  This is another way of writing comments. This is helpful when you want to write multiple lines of comments.
- *  Functions are very important as they making writing big programs very easy. Functions are blocks of codes. We can give any name to a function. 
+ *  Functions are very important as they make writing big programs very easy. Functions are blocks of codes. We can give any name to a function. 
  *  When a function is called inside void setup or void loop, the program will jump to that block of code which has that function name.
  *  Once it is done executing that block of code, it will come back to void setup or void loop and continue executing rest of the code.
  *  In this example, we have made 3 functions with the names "addd", "add" and "addition". Let us understand how these 3 functions work.
