@@ -23,7 +23,7 @@ void loop() {
 }
 
 /*  Instructions are only executed inside void setup() and void loop() so anything outside these are not executed by the microcontroller.
- *  But we can define functions below and call those functions by names inside void setup() or void loop(). In this example we have called them inside void setup().
+ *  But we can define functions below and call those functions by their names inside void setup() or void loop(). In this example we have called them inside void setup().
  */
 
 // Function of type "void" do not return any value
