@@ -9,3 +9,4 @@ Click the links to navigate through the session material.
 5. [Telemetry with XBee](https://github.com/Team-Sammard/SATCAN-Material/tree/main/Telemetry%20with%20XBee)
 6. [Programming the Arduino I](https://github.com/Team-Sammard/SATCAN-Material/tree/main/Programming%20the%20Arduino%20I)
 7. [Programming the Arduino II](https://github.com/Team-Sammard/SATCAN-Material/tree/main/Programming%20the%20Arduino%20II)
+8. [Power Budget & PCB](https://github.com/Team-Sammard/SATCAN-Material/blob/main/Power%20Budget%20and%20PCB)
